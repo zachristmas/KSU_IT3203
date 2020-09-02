@@ -4,6 +4,7 @@ _Note: everywhere in the instructions where you see_ **_USERID_**_, replace with
 
 **Initial SSH test:**
 -   Start setting up SSH connection to the school
+	-   Open 'Terminal' application (should be on all Macs by default)
 	-   In the terminal console type: ``ssh USERID@weblab.kennesaw.edu``
 	-   Confirm “yes” to trusting ssh certificate
 	-   Enter your NetID password
